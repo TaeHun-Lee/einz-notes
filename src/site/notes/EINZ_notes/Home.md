@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/einz-notes/home/","tags":["gardenEntry"]}
 ---
 
-# 👋 Welcome to EINZ
+# Welcome to EINZ
 
 EINZ에 합류하신 것을 진심으로 환영합니다!  
 이곳은 EINZ의 업무 방식, 문화, 기술 스택 등 회사 생활에 필요한 모든 지식이 담긴 옵시디언 저장소(Vault)입니다.
@@ -11,7 +11,7 @@ EINZ에 합류하신 것을 진심으로 환영합니다!
 
 ---
 
-## 🚀 시작하기 (Getting Started)
+## 시작하기 (Getting Started)
 
 신규 입사자분들은 아래 링크를 클릭하여 온보딩 절차를 시작해 주세요.
 
@@ -21,21 +21,21 @@ EINZ에 합류하신 것을 진심으로 환영합니다!
 
 ---
 
-## 🗺️ 문서 지도 (Map of Content)
+## 문서 지도
 
-### 🏢 회사 소개 (About EINZ)
+### 회사 소개
 우리 회사가 나아가는 방향과 구조를 이해합니다.
 - **[[EINZ_notes/EINZ_비전과_미션\|EINZ_비전과_미션]]**: 우리가 일하는 목적과 핵심 가치, 그리고 프로젝트 연혁
 - **[[EINZ_notes/조직도_및_R&R\|조직도_및_R&R]]**: 부서별 역할 및 담당자 안내
 - **[[EINZ_notes/사내_생활_가이드\|사내_생활_가이드]]**: 근무 시간, 커뮤니케이션 규칙, 회의 문화
 
-### 🛠️ 업무 가이드 (Work & Dev)
+### 업무 가이드
 SI 업무 수행을 위해 반드시 알아야 할 기술과 절차입니다.
 - **[[EINZ_notes/Knowledge/바이브코딩(VibeCoding)/00_GettingStarted\|EINZ_notes/Knowledge/바이브코딩(VibeCoding)/00_GettingStarted]]**: 바이브코딩에 관하여
 - **[[EINZ_notes/Knowledge/React/00_GettingStarted\|00_GettingStarted]]**: React에 관하여
 - **[[EINZ_notes/기술_스택_및_도구\|기술_스택_및_도구]]**: 현재 가동 중인 사이트 별 언어, 프레임워크, 협업 툴 목록
 
-### 💼 행정 및 지원 (Admin & Support)
+### 행정 및 지원 
 결재, 휴가, 비품 등 행정적인 절차를 안내합니다.
 - **[[EINZ_notes/행정및지원/휴가_및_근태관리\|휴가_및_근태관리]]**: 연차 사용법, 시차 출퇴근제 안내
 - **[[EINZ_notes/행정및지원/지출결의_가이드\|지출결의_가이드]]**: 법인카드 사용 및 경비 청구 방법
@@ -43,7 +43,7 @@ SI 업무 수행을 위해 반드시 알아야 할 기술과 절차입니다.
 
 ---
 
-## 🔗 즐겨찾기 (Quick Links)
+## 즐겨찾기 (Quick Links)
 
 자주 찾는 외부 링크들을 모아두었습니다.
 
