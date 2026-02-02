@@ -25,21 +25,21 @@ EINZ에 합류하신 것을 진심으로 환영합니다!
 
 ### 회사 소개
 우리 회사가 나아가는 방향과 구조를 이해합니다.
-- **[[EINZ_notes/EINZ_Vision_and_Mission\|EINZ_Vision_and_Mission]]**: 우리가 일하는 목적과 핵심 가치, 그리고 프로젝트 연혁
-- **[[EINZ_notes/OrgChart_and_RnR\|OrgChart_and_RnR]]**: 부서별 역할 및 담당자 안내
-- **[[EINZ_notes/Company_Life_Guide\|Company_Life_Guide]]**: 근무 시간, 커뮤니케이션 규칙, 회의 문화
+- **[[EINZ_notes/EINZ_Vision_and_Mission\|비전과 미션]]**: 우리가 일하는 목적과 핵심 가치, 그리고 프로젝트 연혁
+- **[[EINZ_notes/OrgChart_and_RnR\|조직도 및 R&R]]**: 부서별 역할 및 담당자 안내
+- **[[EINZ_notes/Company_Life_Guide\|사내 생활 가이드]]**: 근무 시간, 커뮤니케이션 규칙, 회의 문화
 
 ### 업무 가이드
 SI 업무 수행을 위해 반드시 알아야 할 기술과 절차입니다.
-- **[[EINZ_notes/Knowledge/VibeCoding/00_GettingStarted\|EINZ_notes/Knowledge/VibeCoding/00_GettingStarted]]**: 바이브코딩에 관하여
-- **[[EINZ_notes/Knowledge/React/00_GettingStarted\|EINZ_notes/Knowledge/React/00_GettingStarted]]**: React에 관하여
-- **[[EINZ_notes/Tech_Stack_and_Tools\|Tech_Stack_and_Tools]]**: 현재 가동 중인 사이트 별 언어, 프레임워크, 협업 툴 목록
+- **[[EINZ_notes/Knowledge/VibeCoding/00_GettingStarted\|바이브 코딩 GettingStarted]]**: 바이브코딩에 관하여
+- **[[EINZ_notes/Knowledge/React/00_GettingStarted\|React GettingStarted]]**: React에 관하여
+- **[[EINZ_notes/Tech_Stack_and_Tools\|기술 스택 및 도구]]**: 현재 가동 중인 사이트 별 언어, 프레임워크, 협업 툴 목록
 
 ### 행정 및 지원 
 결재, 휴가, 비품 등 행정적인 절차를 안내합니다.
-- **[[EINZ_notes/Vacation_and_Attendance\|Vacation_and_Attendance]]**: 연차 사용법, 시차 출퇴근제 안내
-- **[[EINZ_notes/Expense_Guide\|Expense_Guide]]**: 법인카드 사용 및 경비 청구 방법
-- **[[EINZ_notes/Benefits_Guide\|Benefits_Guide]]**: 교육비 지원, 도서 구매 등 혜택 모음
+- **[[EINZ_notes/Vacation_and_Attendance\|휴가 및 근태관리]]**: 연차 사용법, 시차 출퇴근제 안내
+- **[[EINZ_notes/Expense_Guide\|지출결의 가이드]]**: 법인카드 사용 및 경비 청구 방법
+- **[[EINZ_notes/Benefits_Guide\|복리후생 가이드]]**: 교육비 지원, 도서 구매 등 혜택 모음
 
 ---
 
@@ -47,8 +47,8 @@ SI 업무 수행을 위해 반드시 알아야 할 기술과 절차입니다.
 
 자주 찾는 외부 링크들을 모아두었습니다.
 
-* **회사 사이트**: `[[회사 사이트](http://www.einz.co.kr/index)]`
-* **그룹웨어**: `[[그룹웨어_링크_입력](https://gw.einz.co.kr/)]`
+* **회사 사이트**: [[회사 사이트](http://www.einz.co.kr/index)]
+* **그룹웨어**: [[그룹웨어_링크_입력](https://gw.einz.co.kr/)]
 
 ---
-*문서 관련 문의나 수정 제안은 `[[이태훈]]`에게 카카오톡으로 메시지를 남겨주세요.*
+*문서 관련 문의나 수정 제안은 이태훈 책임에게 카카오톡으로 메시지를 남겨주세요.*
