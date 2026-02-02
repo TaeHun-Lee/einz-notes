@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/einz-notes/home/"}
 ---
 
 # Welcome to EINZ

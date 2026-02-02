@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/einz/"}
+{"dg-publish":true,"permalink":"/einz-notes/einz/","tags":["gardenEntry"]}
 ---
 
 # EINZ 비전과 미션
