@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/00-getting-started/"}
 ---
 
-# 00_GettingStarted: 바이브코딩이란?
+# GettingStarted: 바이브코딩이란?
 
 > "The hottest new programming language is English." - Andrej Karpathy
 
-**바이브코딩(Vibe Coding)**은 코드를 한 줄 한 줄 직접 타이핑하는 것이 아니라, AI에게 자연어로 의도(Intent)와 흐름(Vibe)을 전달하며 코드를 작성하는 새로운 개발 패러다임을 의미합니다.
+**바이브코딩(Vibe Coding)** 은 코드를 한 줄 한 줄 직접 타이핑하는 것이 아니라, AI에게 자연어로 의도(Intent)와 흐름(Vibe)을 전달하며 코드를 작성하는 새로운 개발 패러다임을 의미합니다.
 
-개발자는 이제 '작성자(Writer)'가 아닌 **'관리자(Manager)'**이자 **'리뷰어(Reviewer)'**가 되어, AI가 작성한 결과물의 논리를 검증하고 전체적인 아키텍처를 조율하는 데 집중합니다.
+개발자는 이제 '작성자(Writer)'가 아닌 **'관리자(Manager)'** 이자 **'리뷰어(Reviewer)'** 가 되어, AI가 작성한 결과물의 논리를 검증하고 전체적인 아키텍처를 조율하는 데 집중합니다.
 
 ---
 
@@ -56,10 +56,10 @@
 
 ## 결론: 무엇을 선택해야 할까?
 
-* **정교한 로직과 복잡한 리팩토링**이 필요하다면? 👉 **Claude + Cursor**
-* **거대한 레거시 코드 분석**이나 **문서 기반의 빠른 프로토타이핑**이 필요하다면? 👉 **Gemini 기반 스택**
+* **정교한 로직과 복잡한 리팩토링**이 필요하다면? -> **Claude + Cursor**
+* **거대한 레거시 코드 분석**이나 **문서 기반의 빠른 프로토타이핑**이 필요하다면? -> **Gemini 기반 스택**
 
-바이브코딩은 도구보다 **"어떻게 질문하느냐(Prompting)"**가 더 중요합니다. 지금 바로 시작해 보세요!
+바이브코딩은 도구보다 **"어떻게 질문하느냐(Prompting)"** 가 더 중요합니다. 지금 바로 시작해 보세요!
 
 ---
 *Last Updated: 2026-02-02*
