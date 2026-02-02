@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/00-getting-started/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/00-getting-started/"}
 ---
 
 # 00_GettingStarted: 바이브코딩이란?
