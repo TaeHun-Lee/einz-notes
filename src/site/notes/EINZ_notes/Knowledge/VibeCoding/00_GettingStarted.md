@@ -116,6 +116,7 @@ curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del in
 - **WinGet 사용자**: `winget install Anthropic.ClaudeCode` _(WinGet 설치 시 자동 업데이트 미지원, `winget upgrade Anthropic.ClaudeCode`로 수동 업데이트 필요)_
 
 *(참조: 저는 Windows10 환경에서 PowerShell 설치 방식이 동작하지 않아 CMD 방식으로 설치하였습니다.)*
+
 ---
 
 ### 3. 실행 및 초기 설정 (Get Started)
@@ -137,7 +138,7 @@ claude
 3. **로그인 (최초 1회)**
 - 명령어를 실행하면 브라우저가 열리고 로그인 및 권한 승인 절차가 진행됩니다.
 - 승인이 완료되면 터미널에서 바로 사용이 가능합니다.
-- 
+
 ---
 
 ## 활용 팁 (Usage Tips)
@@ -147,9 +148,6 @@ claude
 - **자동화**: `claude -p "커밋 메시지 작성해줘"`와 같이 단일 명령으로 특정 작업을 수행할 수 있습니다.
 
 ---
-
-_Reference: [Claude Code Overview](https://code.claude.com/docs/en/overview)_
-
 
 ## Cursor IDE 설치
 * **다운로드**: [Cursor 공식 홈페이지](https://www.cursor.com/) 접속 후 OS에 맞는 버전 다운로드 및 설치.
