@@ -67,7 +67,7 @@
 
 ### 구현된 화면
 
-![Pasted image 20260204160732.png](/img/user/Pasted%20image%2020260204160732.png)
+![Pasted image 20260204160729.png](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204160729.png)
 
 ---
 
