@@ -56,11 +56,14 @@
 
 > **(Antigravity 또는 Cursor의 @Codebase 활용)**
 
-> 이제 이 프로젝트에 NestJS 백엔드를 추가할 거야.
+> 기 구현되어 있는 memo-app에 NestJS 백엔드를 추가할 거야.
 > 1. Backend: MySQL을 DB로 쓰고, TypeORM을 사용해줘. `Memo` 테이블(id, title, content, createdAt)을 생성하고 CRUD API를 만들어줘. CORS 설정을 활성화해서 프론트엔드 호출을 허용해줘.
 > 2. Frontend: 기존 LocalStorage 로직을 제거하고 `Axios`와 `React Query`를 사용해 서버와 통신하도록 바꿔줘.
 > 3. Type: 백엔드의 Entity와 프론트엔드의 Interface를 일치시켜서 타입 안정성을 확보해줘.
-> 4. Infrastructure: `docker-compose.yml`을 만들어서 NestJS와 MySQL을 한 번에 띄울 수 있게 해줘.
+> 4. Infrastructure: `docker-compose.yml`을 만들어서 NestJS와 MySQL을 한 번에 띄울 수 있게 해줘.  
+> 5. 현재 시스템에 MySQL이 설치되어 있고 실행되어 있는지 확인하고, 만약 설치되어 있지 않거나 실행되어 있지 않다면 설치 후 실행하는 절차를 진행해줘.  
+> 6. 마찬가지로 현재 시스템에 Docker가 없다면 개별로 NestJS와 MySQL을 띄울 수 있도록 설치 및 실행하는 절차를 진행해줘.  
+> 기존에 구현되어 있는 memo-app 어플리케이션에 덧붙이거나 덮어씌우지 말고 새 어플리케이션을 생성해서 진행해줘. (옵션)
 
 ---
 
