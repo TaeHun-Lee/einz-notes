@@ -44,7 +44,11 @@
 
 > **(Antigravity 또는 Cursor의 @Codebase 활용)**
 
-> "이제 이 프로젝트에 NestJS 백엔드를 추가하려고 해. MySQL을 DB로 사용하고, `Memo` 테이블에는 id, title, content, createdAt이 들어가야 해. 프론트엔드에서 LocalStorage를 쓰던 부분을 우리가 방금 만든 백엔드 API를 호출하도록 변경해줘. Docker Compose 파일도 만들어줘."
+> "이제 이 프로젝트에 NestJS 백엔드를 추가할 거야.
+> 1. Backend: MySQL을 DB로 쓰고, TypeORM을 사용해줘. `Memo` 테이블(id, title, content, createdAt)을 생성하고 CRUD API를 만들어줘. CORS 설정을 활성화해서 프론트엔드 호출을 허용해줘.
+> 2. Frontend: 기존 LocalStorage 로직을 제거하고 `Axios`와 `React Query`를 사용해 서버와 통신하도록 바꿔줘.
+> 3. Type: 백엔드의 Entity와 프론트엔드의 Interface를 일치시켜서 타입 안정성을 확보해줘.
+> 4. Infrastructure: `docker-compose.yml`을 만들어서 NestJS와 MySQL을 한 번에 띄울 수 있게 해줘."
 
 ---
 
