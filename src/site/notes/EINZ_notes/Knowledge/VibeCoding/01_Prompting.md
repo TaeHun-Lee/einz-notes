@@ -74,7 +74,7 @@
 ---
 
 **Next Step:**
-- 작성 중
+- 이제 [[EINZ_notes/Knowledge/VibeCoding/02_Try_it\|02. 직접 해보기]] 문서로 이동하여 우리 프로젝트의 구조를 학습해보세요.
 
 ---
 *Last Updated: 2026-02-04*
