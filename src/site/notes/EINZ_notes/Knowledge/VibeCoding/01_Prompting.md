@@ -65,6 +65,41 @@
 
 ---
 
+## 4. 기본 컨텍스트
+
+Claude Code의 경우 Claude.md, Gemini CLI 및 Antigravity의 경우 GEMINI.md에 기본 컨텍스트 (프롬프트 시작 이전 사전에 AI Model이 숙지해야 할 사항) 제공이 가능합니다.
+
+### 추천 컨텍스트 프롬프트
+
+> Mandatory Language Rule: The output language must always be Korean. Even if the input is in English or other languages, do not translate your response back to that language. Use Korean exclusively unless a different language is explicitly requested for a specific task.
+
+- 한글 대답을 강제합니다.
+
+> Coding Principles & Guidelines:  Strictly adhere to the following principles when generating or refactoring code:
+> 1. Descriptive & Meaningful Naming
+> 1.1 Use highly descriptive and self-documenting names for all functions, variables, and classes.
+> 1.2 Avoid abbreviations (e.g., use `fetchUserAuthenticationStatus` instead of `authStat`).
+> 1.3 Names should clearly communicate the "Intent" and "Action" of the code.
+> 2. Preference for Native Features (Vanila/Pure)
+> 2.1 Minimize reliance on third-party libraries. 
+> 2.2 Prioritize built-in JavaScript (ES6+) and TypeScript features unless an external library is essential for performance or security.
+> 2.3 Aim for lightweight, dependency-free implementations to reduce bundle size and maintenance overhead.
+> 3. Robust Error Handling & User Feedback
+> 3.1 Do not use simple `console.log` for error management.
+> 3.2 Implement structured error handling (e.g., try-catch blocks, Result patterns) that provides meaningful context.
+> 3.3 Design code to return or emit user-friendly feedback/notifications so the UI can inform the user of the current state or failure.
+
+- 코드 컨벤션을 주입합니다. 명확하고 직관적인 변수 명, 함수 명을 강제하고 가능하면 외부 라이브러리 대신 Vanila 코드를 작성하도록 하게 하며 번들 사이즈를 최소화 하려고 노력하도록 지시합니다. 에러 처리를 보다 고도화 하도록 강제합니다. 
+
+> Response Format
+> 1. Provide a brief explanation of the architectural choices made.
+> 2. Ensure all code snippets are TypeScript-first with proper type definitions.
+> 3. If a trade-off is required between these principles, explain the reasoning.
+
+- 답변 사항에 대해 더 자세하게 설명하도록 지시합니다.
+
+---
+
 ## ⚠️ 주의 사항
 
 1. **보안 주의**: 프롬프트에 고객 개인정보, 비밀번호, API Key를 절대 포함하지 마세요.
