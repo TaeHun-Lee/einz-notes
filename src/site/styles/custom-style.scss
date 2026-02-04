@@ -10,13 +10,33 @@ body {
     //  h1 {
     //   color: black;
     //  }
+}
 
-    /* Digital Garden 배포 시 이미지 레이아웃 강제 교정 */
-    .markdown-rendered img {
+/* Digital Garden 이미지 레이아웃 강제 교정 */
+
+// 1. 이미지 자체를 블록화하고 너비를 강제합니다.
+img {
+    display: block !important;
+    width: 100% !important;
+    max-width: 900px !important;
+    height: auto !important;
+    margin: 1.5rem auto !important;
+    clear: both !important; // 주변에 흐르는 텍스트를 강제로 끊어냅니다.
+}
+
+// 2. 이미지를 감싸고 있는 부모 요소가 텍스트와 섞이지 않도록 합니다.
+p:has(img) {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    clear: both !important;
+}
+
+// 3. 만약 옵시디언 특정 클래스가 적용된 경우를 대비합니다.
+.internal-embed, .markdown-rendered, .published-section {
+    img {
         display: block !important;
-        margin: 1.5rem auto !important; /* 위아래 간격 및 중앙 정렬 */
-        width: 100% !important;        /* 가로폭 꽉 채우기 */
-        max-width: 900px !important;   /* 너무 커지는 것 방지 */
-        height: auto !important;
+        float: none !important; // 오른쪽 밀림 방지
+        margin: 1.5rem auto !important;
     }
 }
