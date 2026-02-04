@@ -24,10 +24,15 @@
 > 1. 구조: 비즈니스 로직은 `useMemoStore`라는 커스텀 훅으로 분리하고, UI 컴포넌트와 분리해줘.
 > 2. 기능: 메모 추가, 삭제가 가능해야 하며 `title`, `content`, `id(uuid)`, `createdAt` 데이터를 포함해줘.
 > 3. 저장: LocalStorage를 사용하되, 에러 핸들링(용량 초과 등)을 포함한 유틸리티 함수를 만들어줘.
-> 4. 디자인: Shadcn UI 스타일의 다크 모드를 지원하는 깔끔한 레이아웃으로 부탁해."
+> 4. 디자인: Shadcn UI 스타일의 다크 모드를 지원하는 깔끔한 레이아웃으로 부탁해.
 
 > [!tip] Antigravity의 AgentManager 화면에서 시도해보기
 > Antigravity의 경우 CLI 통합 환경인 Claude Code나 Gemini CLI와 다르게 AI Agent가 IDE에 통합되어 있는 환경입니다. `Ctrl + E` 키를 눌러 AgentManager 화면을 열고 프롬프트를 입력해보세요.
+
+![Pasted image 20260204142247.png|AgentManager](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204142247.png)
+
+> [!tip] Implementation Plan에 Comment 기능 사용하기
+> 최초 프롬프트로 지시할 때 Antigravity가 Implemenation Plan을 제안할 경우, 이 Plan 내에 의도하지 않았거나 의도했는데 누락된 기능 및 지시 사항이 있는 경우 해당 부분을 Drag 하거나 Add Comment 버튼을 클릭하여 Plan을 수정할 수 있습니다.
 
 ---
 
@@ -44,11 +49,11 @@
 
 > **(Antigravity 또는 Cursor의 @Codebase 활용)**
 
-> "이제 이 프로젝트에 NestJS 백엔드를 추가할 거야.
+> 이제 이 프로젝트에 NestJS 백엔드를 추가할 거야.
 > 1. Backend: MySQL을 DB로 쓰고, TypeORM을 사용해줘. `Memo` 테이블(id, title, content, createdAt)을 생성하고 CRUD API를 만들어줘. CORS 설정을 활성화해서 프론트엔드 호출을 허용해줘.
 > 2. Frontend: 기존 LocalStorage 로직을 제거하고 `Axios`와 `React Query`를 사용해 서버와 통신하도록 바꿔줘.
 > 3. Type: 백엔드의 Entity와 프론트엔드의 Interface를 일치시켜서 타입 안정성을 확보해줘.
-> 4. Infrastructure: `docker-compose.yml`을 만들어서 NestJS와 MySQL을 한 번에 띄울 수 있게 해줘."
+> 4. Infrastructure: `docker-compose.yml`을 만들어서 NestJS와 MySQL을 한 번에 띄울 수 있게 해줘.
 
 ---
 
