@@ -29,7 +29,7 @@
 > [!tip] Antigravity의 AgentManager 화면에서 시도해보기
 > Antigravity의 경우 CLI 통합 환경인 Claude Code나 Gemini CLI와 다르게 AI Agent가 IDE에 통합되어 있는 환경입니다. `Ctrl + E` 키를 눌러 AgentManager 화면을 열고 프롬프트를 입력해보세요.
 
-![Pasted image 20260204142247.png](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204142247.png)
+![Pasted image 20260204142247.png|100%](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204142247.png)
 <div style="clear: both;"></div>
 
 > [!tip] Implementation Plan에 Comment 기능 사용하기
@@ -37,7 +37,7 @@
 
 ### 구현된 화면
 
-![Pasted image 20260204150456.png](/img/user/Pasted%20image%2020260204150456.png)
+![Pasted image 20260204150456.png|100%](/img/user/Pasted%20image%2020260204150456.png)
 <div style="clear: both;"></div>
 
 > [!warning] 구현이 다를 경우
