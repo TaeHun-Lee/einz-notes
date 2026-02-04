@@ -217,7 +217,7 @@ gemini
 | Google Cloud Vertex AI 사용자 | Vertex AI | 예 |
 | 헤드리스(Headless) 모드(CI/CD, 서버 등 UI가 없는 환경) | Gemini API 키또는 Vertex AI 사용 | 아니요(Gemini API 키 사용 시)예(Vertex AI 사용 시) |
 
-** (참조: Google AI Studio 사용자의 경우 Gemini CLI 무료 사용이 가능하지만 향후 토큰 제한 및 과금이 발생할 수 있습니다.) **
+**(참조: Google AI Studio 사용자의 경우 Gemini CLI 무료 사용이 가능하지만 향후 토큰 제한 및 과금이 발생할 수 있습니다.)**
 
 
 # 프롬프팅 (Prompting) 작성 방법에 대하여
