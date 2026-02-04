@@ -311,4 +311,4 @@ Claude Code나 Gemini CLI에서 바로 활용할 수 있는 구조화된 예시�
 프롬프팅 가이드를 숙지하셨나요? 이제 [[EINZ_notes/Knowledge/VibeCoding/01_Prompting\|01. 프롬프팅 표준 가이드]] 문서로 이동하여 우리 프로젝트의 구조를 학습해보세요.
 
 ---
-*Last Updated: 2026-02-02*
+*Last Updated: 2026-02-04*
