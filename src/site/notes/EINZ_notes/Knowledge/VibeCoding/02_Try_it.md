@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/02-try-it/","title":"02. Try it: Building a Vibe App"}
+{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/02-try-it/","title":"02. 직접 해보기"}
 ---
 
 
-# 02. Try it: Building a Vibe App
+# 02. 직접 해보기
 
 이 가이드에서는 **바이브 코딩(Vibe Coding)** 을 통해 React와 NestJS를 활용한 '간단한 메모 앱'을 구축합니다. 직접 코드를 타이핑하기보다 AI에게 의도를 전달하고 결과를 조율하는 데 집중하세요.
 
