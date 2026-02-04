@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/00-getting-started/"}
+{"dg-publish":true,"permalink":"/einz-notes/knowledge/vibe-coding/00-getting-started/","title":"00. 바이브코딩이란?"}
 ---
 
 # 00_GettingStarted: 바이브코딩이란?
