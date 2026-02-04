@@ -29,12 +29,19 @@
 > [!tip] Antigravity의 AgentManager 화면에서 시도해보기
 > Antigravity의 경우 CLI 통합 환경인 Claude Code나 Gemini CLI와 다르게 AI Agent가 IDE에 통합되어 있는 환경입니다. `Ctrl + E` 키를 눌러 AgentManager 화면을 열고 프롬프트를 입력해보세요.
 
-![Pasted image 20260204142247.png|100%](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204142247.png)
+![Pasted image 20260204142247.png](/img/user/EINZ_notes/Knowledge/VibeCoding/images/Pasted%20image%2020260204142247.png)
 <div style="clear: both;"></div>
 
 > [!tip] Implementation Plan에 Comment 기능 사용하기
 > 최초 프롬프트로 지시할 때 Antigravity가 Implemenation Plan을 제안할 경우, 이 Plan 내에 의도하지 않았거나 의도했는데 누락된 기능 및 지시 사항이 있는 경우 해당 부분을 Drag 하거나 Add Comment 버튼을 클릭하여 Plan을 수정할 수 있습니다.
 
+### 구현된 화면
+
+![Pasted image 20260204150456.png](/img/user/Pasted%20image%2020260204150456.png)
+<div style="clear: both;"></div>
+
+> [!warning] 구현이 다를 경우
+> AI 모델은 같은 프롬프트에 동일한 답변을 일관적으로 반환하지 않습니다. 결과물이 다르더라도 의도했던 기능이 동작하는 경우 제대로 구현된 것이므로 안심하셔도 됩니다.
 
 ---
 
