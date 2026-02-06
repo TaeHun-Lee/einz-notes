@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/einz-notes/home/","title":"홈","tags":["gardenEntry"]}
 ---
 
+
 # Welcome to EINZ
 
 EINZ에 합류하신 것을 진심으로 환영합니다!  

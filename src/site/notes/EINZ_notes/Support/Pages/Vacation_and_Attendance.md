@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/einz-notes/support/pages/vacation-and-attendance/","title":"휴가 및 근태 관리"}
 ---
 
+
 # 휴가 및 근태 관리
 
 휴가 사용 규정과 결재 프로세스를 안내합니다. 

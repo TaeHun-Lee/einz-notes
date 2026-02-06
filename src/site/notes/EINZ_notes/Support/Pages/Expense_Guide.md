@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/einz-notes/support/pages/expense-guide/","title":"지출결의 가이드"}
 ---
 
+
 # 지출결의 가이드
 
 업무와 관련하여 발생한 비용을 청구하거나 법인카드를 사용할 때의 절차입니다.

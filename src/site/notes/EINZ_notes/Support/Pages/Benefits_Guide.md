@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/einz-notes/support/pages/benefits-guide/","title":"복리후생 안내"}
 ---
 
+
 # 복리후생 안내
 
 EINZ 구성원의 건강하고 안정적인 생활을 지원하기 위한 제도입니다.

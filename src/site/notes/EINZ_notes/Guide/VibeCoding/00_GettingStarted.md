@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/einz-notes/guide/vibe-coding/00-getting-started/","title":"00. 바이브코딩이란?"}
 ---
 
-# 00_GettingStarted: 바이브코딩이란?
+
+# 00. 바이브코딩이란?
 
 > "The hottest new programming language is English." - Andrej Karpathy
 
