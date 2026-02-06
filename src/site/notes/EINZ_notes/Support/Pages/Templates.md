@@ -1,0 +1,131 @@
+---
+{"dg-publish":true,"permalink":"/einz-notes/support/pages/templates/","title":"사내 결재 및 품의 템플릿"}
+---
+
+
+# 사내 결재 및 품의 템플릿
+
+EINZ 구성원들이 각종 결재 및 품의 상신 시 표준화된 형식을 사용할 수 있도록 제공하는 템플릿입니다. 본인의 상황에 맞는 템플릿을 복사하여 사용하세요.
+
+---
+
+## 1. 휴가 및 근태 신청서
+
+### 휴가 신청 템플릿
+
+![Pasted image 20260206111052.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206111052.png)
+
+* 전재결재 > 근태/휴가결재 > 결재문서 작성
+
+![Pasted image 20260206112911.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206112911.png)
+
+* 연차휴가 / 반차 선택
+
+![Pasted image 20260206123720.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123720.png)
+
+* "결재라인 추가" 버튼 선택
+> [!info] **결재 프로세스 안내**
+> * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+> * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+
+![Pasted image 20260206113247.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206113247.png)
+
+* 요청기간 From / To 입력
+* 제목 : "연차 신청합니다" / "반차 신청합니다"
+* 사유 : "개인사유로 연차 신청합니다" / "개인사유로 반차 신청합니다"
+* 행선지 입력
+* 연락처 입력
+* 같은 팀 내 대체근무자 입력
+
+
+---
+
+## 2. 지출 결의서 (비용 청구)
+
+![Pasted image 20260206123340.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123340.png)
+
+* 전자결재 > 지출결재 > 결재문서 작성
+
+![Pasted image 20260206123433.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123433.png)
+
+* 지출결의서 선택
+
+![Pasted image 20260206123724.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123724.png)
+
+* "결재라인 추가" 버튼 선택
+> [!info] **결재 프로세스 안내**
+> * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+> * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+
+![Pasted image 20260206124038.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206124038.png)
+
+* 지출형식 : "송금" 선택
+* 제목 : "${[투입 사이트]} ${해당 월} 지출결의서"
+* 지급유형 "기타" 선택
+* 년월일 : 지출결의서 상신 당일 선택
+* 내용 : "기타" 선택
+* 금액 : 지출결의 총액 입력
+
+![Pasted image 20260206124939.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206124939.png)
+
+* 내용요약 : 제목과 동일하게 "${[투입 사이트]} ${해당 월} 지출결의서"
+* 세부내용 : 이하 양식으로 작성
+```
+개인카드              : 1 건 (10,000원)
+==================================
+회의비                : 0 건 (0원)
+교통비                : 1 건 (10,000원)
+식대                  : 0 건 (0원)
+야근식대              : 0 건 (0원)
+```
+
+![Pasted image 20260206132619.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206132619.png)
+
+* 파일 버튼 선택 > 지출결의서 엑셀 파일 첨부
+
+### 지출결의서 엑셀 파일 예시
+![[지출결의서_이태훈_202501 1.xls]]
+
+---
+
+## 3. 일반 품의서 (구매/행사 등)
+
+![Pasted image 20260206141530.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141530.png)
+
+* 전자결재 > 일반결재 > 결재문서 작성
+
+![Pasted image 20260206141612.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141612.png)
+
+* "기안서" 선택
+
+![Pasted image 20260206123724.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123724.png)
+
+* "결재라인 추가" 버튼 선택
+> [!info] **결재 프로세스 안내**
+> * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+> * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
+
+![Pasted image 20260206141942.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141942.png)
+
+* "제목" 란에 품의 내용 포함하도록 제목 작성
+
+![Pasted image 20260206142105.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206142105.png)
+### 교육비 품의 템플릿
+* **제목**: 교육비 결제 품의
+* **상세 내용**:
+    * 수강 목적: 
+    * 수강 내용 및 금액: 
+    * 교육 공유 방안: 
+
+### 일반 품의 템플릿
+* **제목**: ~ 결제 품의 (상세 내용 요약)
+* **상세 내용**:
+    * 결제 대상: 
+    * 결제 목적 및 금액: 
+    * 사용처: 
+
+---
+
+## 작성 가이드
+* 모든 결재는 사전에 구두 또는 메신저로 보고된 사항을 공식화하는 과정입니다.
+* 증빙 서류가 필요한 결재에 서류가 누락될 경우 경영지원팀에서 반려될 수 있으니 주의 바랍니다.
