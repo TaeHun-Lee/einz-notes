@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/support/pages/vacation-and-attendance/"}
+{"dg-publish":true,"permalink":"/einz-notes/support/pages/vacation-and-attendance/","title":"휴가 및 근태 관리"}
 ---
 
 # 휴가 및 근태 관리

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/about/pages/vision-and-mission/"}
+{"dg-publish":true,"permalink":"/einz-notes/about/pages/vision-and-mission/","title":"비전과 미션"}
 ---
 
 # EINZ 비전과 미션

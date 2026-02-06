@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/guide/pages/onboarding/"}
+{"dg-publish":true,"permalink":"/einz-notes/guide/pages/onboarding/","title":"온보딩"}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/guide/pages/tech-stack-and-tools/"}
+{"dg-publish":true,"permalink":"/einz-notes/guide/pages/tech-stack-and-tools/","title":"기술 스택 및 도구"}
 ---
 
 # 기술 스택 및 도구

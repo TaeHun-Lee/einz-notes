@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/about/pages/org-chart-and-rn-r/"}
+{"dg-publish":true,"permalink":"/einz-notes/about/pages/org-chart-and-rn-r/","title":"조직도 및 R&R"}
 ---
 
 # 조직도 및 R&R

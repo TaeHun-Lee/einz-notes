@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/about/pages/company-life-guide/"}
+{"dg-publish":true,"permalink":"/einz-notes/about/pages/company-life-guide/","title":"사내 생활 가이드"}
 ---
 
 # 사내 생활 가이드

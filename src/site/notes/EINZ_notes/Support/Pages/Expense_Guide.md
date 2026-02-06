@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/support/pages/expense-guide/"}
+{"dg-publish":true,"permalink":"/einz-notes/support/pages/expense-guide/","title":"지출결의 가이드"}
 ---
 
 # 지출결의 가이드

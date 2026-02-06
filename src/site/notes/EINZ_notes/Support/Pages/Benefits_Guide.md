@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/support/pages/benefits-guide/"}
+{"dg-publish":true,"permalink":"/einz-notes/support/pages/benefits-guide/","title":"복리후생 안내"}
 ---
 
 # 복리후생 안내
