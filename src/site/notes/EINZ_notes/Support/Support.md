@@ -15,3 +15,6 @@
 - **[[EINZ_notes/Support/Pages/Expense_Guide\|지출결의 가이드]]**: 법인카드 사용 및 경비 청구 방법
 - **[[EINZ_notes/Support/Pages/Benefits_Guide\|복리후생 가이드]]**: 교육비 지원, 도서 구매 등 혜택 모음
 - **[[EINZ_notes/Support/Pages/Templates\|Templates]]**: 각종 결재 및 품의 상신 템플릿
+
+---
+*Last Updated: 2026-02-06*

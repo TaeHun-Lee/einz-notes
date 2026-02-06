@@ -80,4 +80,4 @@ graph TD
 | **김남희** | 팀장     | 경영지원팀  |          |
 
 ---
-_Last Updated: 2026-02-02_
+*Last Updated: 2026-02-06*

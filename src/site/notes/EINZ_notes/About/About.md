@@ -19,3 +19,6 @@
 - **[[EINZ_notes/About/Pages/Vision_and_Mission\|비전과 미션]]**: 우리가 일하는 목적과 핵심 가치, 그리고 프로젝트 연혁
 - **[[EINZ_notes/About/Pages/OrgChart_and_RnR\|조직도 및 R&R]]**: 부서별 역할 및 담당자 안내
 - **[[EINZ_notes/About/Pages/Company_Life_Guide\|사내 생활 가이드]]**: 근무 시간, 커뮤니케이션 규칙, 회의 문화
+
+---
+*Last Updated: 2026-02-06*
