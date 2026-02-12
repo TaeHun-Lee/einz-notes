@@ -116,19 +116,26 @@ export function UserCard({ name, role }: UserCardProps) {
 
 ### 아키텍처 및 패턴
 
-- [ ] **[Bulletproof React](https://github.com/alan2207/bulletproof-react)**: 확장 가능한 프로젝트 구조의 교과서 (GitHub)
-- [ ] **[Patterns.dev](https://www.patterns.dev/)**: 모던 웹 앱 디자인 패턴 가이드
+- [ ] [Bulletproof React](https://github.com/alan2207/bulletproof-react): 확장 가능한 프로젝트 구조의 교과서 (GitHub)
+- [ ] [Patterns.dev](https://www.patterns.dev/): 모던 웹 앱 디자인 패턴 가이드
+- [ ] [Next.js Enterprise Boilerplate](https://github.com/Blazity/next-enterprise): Next.js 기반의 대규모 프로젝트용 보일러플레이트
+- [ ] [Feature-Sliced Design (FSD) 한국어 가이드](https://feature-sliced.design/kr): 최근 대규모 프로젝트에서 아키텍처에 대한 한국어 가이드
+- [ ] [React Best Practices (by Vercel)](https://github.com/vercel-labs/agent-skills/tree/main/skills/react-best-practices): Next.js를 만든 Vercel 팀이 직접 정리한 성능 최적화 및 코드 작성 가이드
+- [ ] [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react): React에서 TypeScript를 쓸 때 마주치는 모든 상황(Props, Hooks, Event typing 등)에 대한 가이드
 
-### 실무 적용 사례 (기술 블로그)
+### 기술 상세
 
-- [ ] **[토스 기술 블로그](https://toss.tech/)**: "Effective Component", "선언적인 코드 작성하기"
-- [ ] **[우아한형제들 기술 블로그](https://techblog.woowahan.com/)**: "React Query & Zustand 도입기"
-- [ ] **[카카오 엔터테인먼트 FE](https://www.google.com/search?q=https://fe-developers.kakaoent.com/)**: Next.js 및 아토믹 디자인 적용 사례
+- [ ] [React.dev (공식 문서) - Thinking in React](https://react.dev/learn/thinking-in-react): 최신 React(함수형, 훅 기반) 사고방식으로 설계 관점에서 리액트를 설명하는 가이드
+- [ ] [TanStack Query (React Query) 공식 문서 - Best Practices](https://tanstack.com/query/latest): 메인테이너가 직접 작성한 베스트 프렉티스 사례
+
+### 기술 블로그
+
+- [ ] [TkDodo's Blog (Dominik Dorfmeister)](https://tkdodo.eu/blog/): TanStack Query의 메인테이너 기술
 
 ### 심화 학습
 
-- [ ] **[React.dev - Thinking in React](https://react.dev/learn/thinking-in-react)**: 리액트 공식 설계 사고방식
-- [ ] **[TkDodo's Blog](https://tkdodo.eu/blog/)**: React Query의 모든 것 (Best Practices)
+- [ ] [React.dev - Thinking in React](https://react.dev/learn/thinking-in-react): 리액트 공식 설계 사고방식
+- [ ] [TkDodo's Blog](https://tkdodo.eu/blog/): React Query의 모든 것 (Best Practices)
 
 ---
 *Last Updated: 2026-02-12*
