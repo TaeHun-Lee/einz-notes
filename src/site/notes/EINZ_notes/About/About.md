@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/about/about/","title":"회사 소개"}
+{"dg-publish":true,"permalink":"/einz-notes/about/about/","title":"회사 소개","pinned":true}
 ---
 
 

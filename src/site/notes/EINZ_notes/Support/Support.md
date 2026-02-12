@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/support/support/","title":"행정 및 지원"}
+{"dg-publish":true,"permalink":"/einz-notes/support/support/","title":"행정 및 지원","pinned":true}
 ---
 
 
