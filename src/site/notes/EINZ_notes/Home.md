@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/home/","title":"홈","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/einz-notes/home/","title":"홈","pinned":true,"tags":["gardenEntry"]}
 ---
 
 
