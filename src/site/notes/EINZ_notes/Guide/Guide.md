@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/guide/guide/","title":"업무 가이드","pinned":true}
+{"dg-publish":true,"permalink":"/einz-notes/guide/guide/","title":"업무 가이드"}
 ---
 
 
