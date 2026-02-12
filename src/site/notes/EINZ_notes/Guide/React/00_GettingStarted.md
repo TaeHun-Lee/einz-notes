@@ -132,10 +132,5 @@ export function UserCard({ name, role }: UserCardProps) {
 
 - [ ] [TkDodo's Blog (Dominik Dorfmeister)](https://tkdodo.eu/blog/): TanStack Query의 메인테이너 기술
 
-### 심화 학습
-
-- [ ] [React.dev - Thinking in React](https://react.dev/learn/thinking-in-react): 리액트 공식 설계 사고방식
-- [ ] [TkDodo's Blog](https://tkdodo.eu/blog/): React Query의 모든 것 (Best Practices)
-
 ---
 *Last Updated: 2026-02-12*
