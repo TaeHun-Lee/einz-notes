@@ -17,7 +17,7 @@ EINZ에 합류하신 것을 진심으로 환영합니다!
 신규 입사자분들은 아래 링크를 클릭하여 온보딩 절차를 시작해 주세요.
 
 > [!example] 1일 차 ~ 1달 차 가이드
-> 입사 후 해야 할 업무 설정과 과제들은 **[[EINZ_notes/Onboarding\|Onboarding]]** 문서에 정리되어 있습니다.  
+> 입사 후 해야 할 업무 설정과 과제들은 **[[EINZ_notes/Guide/Pages/Onboarding\|Onboarding]]** 문서에 정리되어 있습니다.  
 > 해당 문서를 열어 순서대로 진행해 주세요.
 
 ---

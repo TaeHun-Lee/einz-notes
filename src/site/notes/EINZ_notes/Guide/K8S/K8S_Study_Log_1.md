@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/guide/k8-s/k8-s-study-log-1/","title":"K8S 스터디 로그 1"}
+{"dg-publish":true,"permalink":"/einz-notes/guide/k8-s/k8-s-study-log-1/","title":"1: 환경 구성"}
 ---
 
 
 ## Kubernetes 학습 정리 (Windows 11 실습 환경)
 
-### Step 1: 개념 이해 및 환경 설계
+### 1: 개념 이해 및 환경 설계
 
 - **Kubernetes 정의:** 컨테이너화된 애플리케이션의 배포, 확장 및 관리를 자동화하는 오케스트레이션 도구임.
 
@@ -13,7 +13,7 @@
 
 - **리소스 할당:** Intel Core Ultra 9 285H 사양을 고려하여 가상 머신에 CPU 4 Cores, RAM 8GB를 할당하여 안정성을 확보함.
 
-### Step 2: 격리 환경(VirtualBox) 구축 및 설정
+### 2: 격리 환경(VirtualBox) 구축 및 설정
 
 - **OS 설치:** Ubuntu ISO 이미지를 수동으로 마운트하여 설치함.
 
@@ -21,7 +21,7 @@
 
 - **네트워크 설정:** NAT 네트워크 환경에서 윈도우(호스트)와 우분투(게스트) 간의 통신을 위해 포트 포워딩(8888 -> 8080/30001, 2222 -> 22)을 설정함.
 
-### Step 3: K8S 핵심 도구 설치 및 클러스터 구동
+### 3: K8S 핵심 도구 설치 및 클러스터 구동
 
 - **Docker 설치:** 컨테이너 런타임 엔진으로 Docker를 설치하고, `sudo` 없이 명령어를 사용하도록 권한 설정을 완료함.
 ```bash
@@ -39,7 +39,7 @@ newgrp docker
 
 - **클러스터 시작:** `minikube start --driver=docker` 명령을 통해 가상 머신 내부에서 싱글 노드 클러스터를 활성화함.
 
-### Step 4: 서비스 배포 및 객체 관리 실습
+### 4: 서비스 배포 및 객체 관리 실습
 
 - **Pod & Deployment:** `nginx` 이미지를 사용하여 파드를 생성하고, `replicas: 2` 설정을 통해 고가용성 설계를 실습함.
 
@@ -59,7 +59,7 @@ newgrp docker
 
 - **YAML 기반 IaC:** 명령어 방식이 아닌 YAML 파일을 작성하여 인프라를 코드로서 정의하고 `kubectl apply -f` 명령으로 반영함.
 
-### Step 5: 고급 기능 테스트 및 트러블슈팅
+### 5: 기능 테스트 및 트러블슈팅
 
 - **자가 치유(Self-healing):** 실행 중인 파드를 강제로 삭제하여 K8S가 설계도(Replicas)에 따라 자동으로 파드를 복구하는 과정을 확인함.
 ```bash
@@ -69,14 +69,6 @@ kubectl delete [pod 이름]
 - **ConfigMap 주입:** 외부 HTML 파일을 ConfigMap으로 만들어 컨테이너 내부에 주입함. 이때 발생한 `Read-only file system` 에러를 통해 K8S의 보안 및 파일 시스템 마운트 원리를 학습함.
 
 - **로드 밸런싱:** 여러 개의 파드 내용(I am Pod 1/2)을 각각 수정하여 서비스가 트러블을 분산 처리하는 것을 확인함.
-
----
-
-## 향후 실습 과제 (Next Steps)
-
-1. **영구 저장소(PV/PVC) 적용:** 파드 재시작 시에도 데이터가 유지되도록 가상 디스크 연결.
-2. **리소스 제한(Limit/Request):** 가상 머신의 자원을 효율적으로 쓰기 위한 제한 설정.
-3. **애플리케이션 컨테이너화:** 직접 만든 소스 코드를 Dockerfile로 빌드하여 K8S에 배포.
 
 ---
 *Last Updated: 2026-02-23*

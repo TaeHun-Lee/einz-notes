@@ -13,22 +13,22 @@ EINZ 구성원들이 각종 결재 및 품의 상신 시 표준화된 형식을 
 
 ### 휴가 신청 템플릿
 
-![Pasted image 20260206111052.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206111052.png)
+![[Pasted image 20260206111052.png\|Pasted image 20260206111052.png]]
 
 * 전재결재 > 근태/휴가결재 > 결재문서 작성
 
-![Pasted image 20260206112911.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206112911.png)
+![[Pasted image 20260206112911.png\|Pasted image 20260206112911.png]]
 
 * 연차휴가 / 반차 선택
 
-![Pasted image 20260206123720.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123720.png)
+![[Pasted image 20260206123720.png\|Pasted image 20260206123720.png]]
 
 * "결재라인 추가" 버튼 선택
 > [!info] **결재 프로세스 안내**
 > * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 > * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 
-![Pasted image 20260206113247.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206113247.png)
+![[Pasted image 20260206113247.png\|Pasted image 20260206113247.png]]
 
 * 요청기간 From / To 입력
 * 제목 : "연차 신청합니다" / "반차 신청합니다"
@@ -42,22 +42,22 @@ EINZ 구성원들이 각종 결재 및 품의 상신 시 표준화된 형식을 
 
 ## 2. 지출 결의서 (비용 청구)
 
-![Pasted image 20260206123340.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123340.png)
+![[Pasted image 20260206123340.png\|Pasted image 20260206123340.png]]
 
 * 전자결재 > 지출결재 > 결재문서 작성
 
-![Pasted image 20260206123433.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123433.png)
+![[Pasted image 20260206123433.png\|Pasted image 20260206123433.png]]
 
 * 지출결의서 선택
 
-![Pasted image 20260206123724.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123724.png)
+![[Pasted image 20260206123724.png\|Pasted image 20260206123724.png]]
 
 * "결재라인 추가" 버튼 선택
 > [!info] **결재 프로세스 안내**
 > * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 > * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 
-![Pasted image 20260206124038.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206124038.png)
+![[Pasted image 20260206124038.png\|Pasted image 20260206124038.png]]
 
 * 지출형식 : "송금" 선택
 * 제목 : "${[투입 사이트]} ${해당 월} 지출결의서"
@@ -66,7 +66,7 @@ EINZ 구성원들이 각종 결재 및 품의 상신 시 표준화된 형식을 
 * 내용 : "기타" 선택
 * 금액 : 지출결의 총액 입력
 
-![Pasted image 20260206124939.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206124939.png)
+![[Pasted image 20260206124939.png\|Pasted image 20260206124939.png]]
 
 * 내용요약 : 제목과 동일하게 "${[투입 사이트]} ${해당 월} 지출결의서"
 * 세부내용 : 이하 양식으로 작성
@@ -79,37 +79,37 @@ EINZ 구성원들이 각종 결재 및 품의 상신 시 표준화된 형식을 
 야근식대              : 0 건 (0원)
 ```
 
-![Pasted image 20260206132619.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206132619.png)
+![[Pasted image 20260206132619.png\|Pasted image 20260206132619.png]]
 
 * 파일 버튼 선택 > 지출결의서 엑셀 파일 첨부
 
 ### 지출결의서 엑셀 파일 예시
-![[지출결의서_이태훈_202501 1.xls]]
+![[지출결의서_이태훈_202501 1.xls\|지출결의서_이태훈_202501 1.xls]]
 
 ---
 
 ## 3. 일반 품의서 (구매/행사 등)
 
-![Pasted image 20260206141530.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141530.png)
+![[Pasted image 20260206141530.png\|Pasted image 20260206141530.png]]
 
 * 전자결재 > 일반결재 > 결재문서 작성
 
-![Pasted image 20260206141612.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141612.png)
+![[Pasted image 20260206141612.png\|Pasted image 20260206141612.png]]
 
 * "기안서" 선택
 
-![Pasted image 20260206123724.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206123724.png)
+![[Pasted image 20260206123724.png\|Pasted image 20260206123724.png]]
 
 * "결재라인 추가" 버튼 선택
 > [!info] **결재 프로세스 안내**
 > * **프로젝트 투입 시**: 본인 ➔ PM or 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 > * **본사 근무 시**: 본인 ➔ 본부장 ➔ 대표이사 ➔ 경영지원팀장 (협조)
 
-![Pasted image 20260206141942.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206141942.png)
+![[Pasted image 20260206141942.png\|Pasted image 20260206141942.png]]
 
 * "제목" 란에 품의 내용 포함하도록 제목 작성
 
-![Pasted image 20260206142105.png](/img/user/EINZ_notes/Support/Pages/images/Pasted%20image%2020260206142105.png)
+![[Pasted image 20260206142105.png\|Pasted image 20260206142105.png]]
 ### 교육비 품의 템플릿
 * **제목**: 교육비 결제 품의
 * **상세 내용**:
