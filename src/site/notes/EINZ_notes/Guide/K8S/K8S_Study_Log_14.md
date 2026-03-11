@@ -3,6 +3,8 @@
 ---
 
 
+# Minikube에서 Kubeadm으로
+
 # Kubeadm을 이용한 K8s 멀티 노드(Multi-Node) 구축 가이드
 
 ## 1. 인프라 준비 (VirtualBox VM 2대)
