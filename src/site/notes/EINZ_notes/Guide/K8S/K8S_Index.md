@@ -3,7 +3,9 @@
 ---
 
 
-[[EINZ_notes/Guide/K8S/K8S_Study_Log_0\|K8S_Study_Log_0]]
+# K8S 스터디 로그 인덱스
+
+[[EINZ_notes/Guide/K8S/K8S_Study_Log_0#Kubernetes 객체(Kind) 종류와 기능\|K8S_Study_Log_0#Kubernetes 객체(Kind) 종류와 기능]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_1\|K8S_Study_Log_1]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_2\|K8S_Study_Log_2]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_3\|K8S_Study_Log_3]]
