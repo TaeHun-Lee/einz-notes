@@ -3,7 +3,7 @@
 ---
 
 
-# Kubernetes(K8S) 실습 환경 구축 및 배포 가이드
+# Kubernetes 실습 환경 구축 및 배포 가이드
 
 ## 1: 가상 머신(Ubuntu) 하드웨어 설정
 

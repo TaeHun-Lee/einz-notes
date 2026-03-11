@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/einz-notes/guide/k8-s/k8-s-study-log-3/","title":"3: PV&PVC, 리소스"}
+{"dg-publish":true,"permalink":"/einz-notes/guide/k8-s/k8-s-study-log-3/","title":"3: 스토리지(PV&PVC), 리소스"}
 ---
 
 
-# Kubernetes(K8S) 스토리지, 리소스, 커스텀 앱 배포
+# 스토리지(PV&PVC), 리소스, 커스텀 앱 배포
 
 ## 1: 데이터 영속성 보장 (Persistent Volume & PVC)
 

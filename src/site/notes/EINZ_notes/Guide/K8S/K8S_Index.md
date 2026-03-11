@@ -7,8 +7,8 @@
 
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_0\|#Kubernetes 객체(Kind) 종류와 기능]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_1\|#Kubernetes 학습 정리 (Windows 11 실습 환경)]]
-[[EINZ_notes/Guide/K8S/K8S_Study_Log_2\|#Kubernetes(K8S) 실습 환경 구축 및 배포 가이드]]
-[[EINZ_notes/Guide/K8S/K8S_Study_Log_3\|#Kubernetes(K8S) 스토리지, 리소스, 커스텀 앱 배포]]
+[[EINZ_notes/Guide/K8S/K8S_Study_Log_2\|#Kubernetes 실습 환경 구축 및 배포 가이드]]
+[[EINZ_notes/Guide/K8S/K8S_Study_Log_3\|#스토리지(PV&PVC), 리소스, 커스텀 앱 배포]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_4\|#설정 분리와 L7 라우팅]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_5\|#Helm 모니터링 구축 및 자동 확장(HPA)]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_6\|#GitOps 기반 배포 자동화 (ArgoCD)]]
