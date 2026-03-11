@@ -18,3 +18,4 @@
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_10\|#Argo Rollouts 기반 Canary 배포]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_11\|#K8S 통합 모니터링 시스템 구축 Prometheus, Grafana, Loki]]
 [[EINZ_notes/Guide/K8S/K8S_Study_Log_12\|#HTTPS 인증서 자동화 구축 (cert-manager)]]
+[[EINZ_notes/Guide/K8S/K8S_Study_Log_13\|#IaC(Infrastructure as Code) 및 Terraform]]
