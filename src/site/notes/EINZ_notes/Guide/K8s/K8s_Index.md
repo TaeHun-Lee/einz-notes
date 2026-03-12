@@ -20,3 +20,4 @@
 [[EINZ_notes/Guide/K8s/K8S_Study_Log_12#HTTPS 인증서 자동화 구축 (cert-manager)\|K8S_Study_Log_12#HTTPS 인증서 자동화 구축 (cert-manager)]]
 [[EINZ_notes/Guide/K8s/K8s_Study_Log_13#IaC(Infrastructure as Code) 및 Terraform\|K8s_Study_Log_13#IaC(Infrastructure as Code) 및 Terraform]]
 [[EINZ_notes/Guide/K8s/K8s_Study_Log_14#Minikube에서 Kubeadm으로 멀티 노드(Multi-Node) 구축 가이드\|K8s_Study_Log_14#Minikube에서 Kubeadm으로 멀티 노드(Multi-Node) 구축 가이드]]
+[[EINZ_notes/Guide/K8s/K8s_Study_Log_15#Minikube에서 Kubeadm으로 LoadBalancer 및 Ingress 구축\|K8s_Study_Log_15#Minikube에서 Kubeadm으로 LoadBalancer 및 Ingress 구축]]
