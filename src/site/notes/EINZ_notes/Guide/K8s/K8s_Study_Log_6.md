@@ -63,7 +63,7 @@ kubectl port-forward --address 0.0.0.0 svc/argocd-server -n argocd 8080:443
 kubectl delete deployment guestbook-ui
 ```
 
-- **관찰 대상:** ArgoCD UI에서 즉시 상태 불일치(Out of Sync)를 감지하고, 관리자의 개입 없이 자동으로 디플로이먼트와 파드를 재생성하여 원상 복구.
+- **검증:** ArgoCD UI에서 즉시 상태 불일치(Out of Sync)를 감지하고, 관리자의 개입 없이 자동으로 디플로이먼트와 파드를 재생성하여 원상 복구.
 
 ### 2.2 임의 스케일링 방어 테스트
 
@@ -74,6 +74,6 @@ kubectl delete deployment guestbook-ui
 kubectl scale deployment guestbook-ui --replicas=5
 ```
 
-- **관찰 대상:** K8S가 파드를 5개로 늘리려 시도하나, ArgoCD가 GitHub 설계도(기본 1개)와 다름을 감지하고 즉시 불필요한 파드 4개를 강제 종료(Terminate)시켜 원래 상태로 되돌림.
+- **검증:** K8S가 파드를 5개로 늘리려 시도하나, ArgoCD가 GitHub 설계도(기본 1개)와 다름을 감지하고 즉시 불필요한 파드 4개를 강제 종료(Terminate)시켜 원래 상태로 되돌림.
 
 ---

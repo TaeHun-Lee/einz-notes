@@ -90,7 +90,7 @@ kubectl apply -f stateful-app.yaml
 kubectl get pods -w
 ```
 
-- **관찰 대상:** 파드가 무작위 해시값이 아닌 `web-stateful-0`, `web-stateful-1`과 같이 순차적이고 고정된 이름으로 생성된다. 0번 파드가 완전히 실행(Running)된 이후에 1번 파드가 순차적으로 생성됨을 확인.
+- **검증:** 파드가 무작위 해시값이 아닌 `web-stateful-0`, `web-stateful-1`과 같이 순차적이고 고정된 이름으로 생성된다. 0번 파드가 완전히 실행(Running)된 이후에 1번 파드가 순차적으로 생성됨을 확인.
 
 ### 1.3 영구 볼륨(PVC) 1:1 자동 생성 확인
 
@@ -98,7 +98,7 @@ kubectl get pods -w
 kubectl get pvc
 ```
 
-- **관찰 대상:** `www-data-web-stateful-0` 및 `www-data-web-stateful-1`이라는 이름으로 각 파드에 종속된 1GB 스토리지가 Bound(연결) 상태로 생성된다.
+- **검증:** `www-data-web-stateful-0` 및 `www-data-web-stateful-1`이라는 이름으로 각 파드에 종속된 1GB 스토리지가 Bound(연결) 상태로 생성된다.
 
 ---
 
@@ -128,6 +128,6 @@ kubectl get pods
 kubectl exec -it web-stateful-0 -- cat /usr/share/nginx/html/index.html
 ```
 
-- **관찰 대상:** 파드가 삭제되고 완전히 새로운 컨테이너로 재생성 되었음에도, K8S가 기존 PVC(`www-data-web-stateful-0`)를 정확히 다시 마운트하여 **"This data must survive a pod restart!"** 메시지가 유실 없이 그대로 출력된다.
+- **검증:** 파드가 삭제되고 완전히 새로운 컨테이너로 재생성 되었음에도, K8S가 기존 PVC(`www-data-web-stateful-0`)를 정확히 다시 마운트하여 **"This data must survive a pod restart!"** 메시지가 유실 없이 그대로 출력된다.
 
 ---

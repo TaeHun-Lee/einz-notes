@@ -141,9 +141,9 @@ kubectl get hpa -w
 kubectl run -i --tty load-generator --rm --image=busybox:1.28 --restart=Never -- /bin/sh -c "while sleep 0.01; do wget -q -O- http://node-app-service; done"
 ```
 
-- **관찰 대상 1:** `kubectl get hpa` 창에서 CPU 사용량이 50%를 초과하며 REPLICAS(파드 수)가 최대 5개까지 늘어나는 현상 확인.
+- **검증:** `kubectl get hpa` 창에서 CPU 사용량이 50%를 초과하며 REPLICAS(파드 수)가 최대 5개까지 늘어나는 현상 확인.
 
-- **관찰 대상 2:** Grafana 대시보드에서 해당 네임스페이스(`default`)의 CPU 그래프 폭증 및 파드 추가 생성 시각적 확인.
+- **검증:** Grafana 대시보드에서 해당 네임스페이스(`default`)의 CPU 그래프 폭증 및 파드 추가 생성 시각적 확인.
 
 - **종료:** 부하 발생기(터미널 2)에서 프로세스 종료 후, 약 5분에 걸쳐 파드가 다시 2개로 줄어드는 스케일인(Scale-in) 현상 확인.
 
